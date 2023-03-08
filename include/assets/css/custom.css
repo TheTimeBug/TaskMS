@@ -1,0 +1,43 @@
+.div-center {
+    margin: 0 auto;
+}
+
+.margin-top-50px {
+    margin-top: 50px;
+}
+
+.margin-top-5px {
+    margin-top: 5px;
+}
+
+.margin-top-10px {
+    margin-top: 10px;
+}
+
+.margin-bottom-10px {
+    margin-bottom: 10px;
+}
+
+.margin-left-10px {
+    margin-left: 10px;
+}
+
+.margin-right-10px {
+    margin-right: 10px;
+}
+
+.w100p {
+    width: 100%;
+}
+
+.w100px {
+    width: 100px;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
